@@ -125,6 +125,14 @@ And *COMPASS* comes with a pretty amazing list of *built in methods* you can use
 
 !SLIDE
 
+## exemples :
+
+You can for exemple have something like the fancy buttons project : https://github.com/imathis/fancy-buttons!
+
+![Fancy Buttons](../images/fancy-buttons.png)
+
+!SLIDE
+
 ## DEMO
 
 !SLIDE
