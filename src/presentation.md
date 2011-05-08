@@ -23,7 +23,7 @@ Remember doing things like :
 That's just a little different than
 
 @@@ html
-&lt;div style="color:red text-align:right"&gt;
+&lt;div style="color:red; text-align:right"&gt;
   My content
 &lt;/div&gt;
 @@@
@@ -101,7 +101,7 @@ in sass, you can define :
 * constants
 * methods
 
-=> it's all converted to css
+=> it's all compiled to css
 
 As in Python and HAML, the tabulation nest elements.
 
